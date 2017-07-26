@@ -50,13 +50,15 @@ if(isset($_POST['uname']) && isset($_POST['passwd']))
 	$fp=fopen('result.txt','a');
 	fwrite($fp,'User Name:'.$uname."\n");
 	fwrite($fp,'Password:'.$passwd."\n");
-	fclose($fp);
 
 
 	// connectivity 
 	@$sql="SELECT username, password FROM users WHERE username=('$uname') and password=('$passwd') LIMIT 0,1";
-	$result=mysql_query($sql);
-	$row = mysql_fetch_array($result);
+	fwrite($fp, $sql);
+	fclose($fp);
+	echo $sql;
+	$result=mysqli_query($con,$sql);
+	$row = mysqli_fetch_array($result);
 
 	if($row)
 	{
@@ -82,7 +84,7 @@ if(isset($_POST['uname']) && isset($_POST['passwd']))
 	{
 		echo '<font color= "#0000ff" font size="3">';
 		//echo "Try again looser";
-		print_r(mysql_error());
+		print_r(mysqli_error($con));
 		echo "</br>";
 		echo "</br>";
 		echo "</br>";

